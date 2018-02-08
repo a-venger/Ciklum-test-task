@@ -1,2 +1,2 @@
-# Ciklum-test-task
+# DeezerTest-and-LogParser
 performance test tasks
