@@ -67,4 +67,8 @@ def get_result(dataframe):
 
 
 if __name__ == '__main__':
-    get_result(reader('access.log'))
+    parser = argparse.ArgumentParser()
+    parser.add_argument('filename', nargs='?', type=str, help="path to log file to parse",
+                        default='access.log')
+    args = parser.parse_args()
+    get_result(reader(args.filename))
