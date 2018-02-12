@@ -14,6 +14,6 @@ TIMEOUT /T 5 >nul
 GOTO CheckForFile
 
 :OpenReport
-call start chrome ..\results\Html\index.html
+call start ..\results\Html\index.html
 
 pause
