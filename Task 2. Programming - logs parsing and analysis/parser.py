@@ -67,4 +67,4 @@ def get_result(dataframe):
 
 
 if __name__ == '__main__':
-    get_result(reader('test.log'))
+    get_result(reader('access.log'))
