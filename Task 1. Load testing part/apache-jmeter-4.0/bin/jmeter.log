@@ -1,0 +1,23 @@
+2018-02-12 12:19:15,985 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2018-02-12 12:19:16,015 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2018-02-12 12:19:16,016 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2018-02-12 12:19:16,027 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2018-02-12 12:19:16,028 INFO o.a.j.JMeter: Version 4.0 r1823414
+2018-02-12 12:19:16,028 INFO o.a.j.JMeter: java.version=1.8.0_152
+2018-02-12 12:19:16,028 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-02-12 12:19:16,028 INFO o.a.j.JMeter: os.name=Windows 10
+2018-02-12 12:19:16,028 INFO o.a.j.JMeter: os.arch=amd64
+2018-02-12 12:19:16,028 INFO o.a.j.JMeter: os.version=10.0
+2018-02-12 12:19:16,028 INFO o.a.j.JMeter: file.encoding=Cp1251
+2018-02-12 12:19:16,028 INFO o.a.j.JMeter: Max memory     =1073741824
+2018-02-12 12:19:16,029 INFO o.a.j.JMeter: Available Processors =3
+2018-02-12 12:19:16,035 INFO o.a.j.JMeter: Default Locale=English (EN)
+2018-02-12 12:19:16,036 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2018-02-12 12:19:16,036 INFO o.a.j.JMeter: JMeterHome=C:\Projects\DeezerTest-and-LogParser.git\trunk\Task 1. Load testing part\apache-jmeter-4.0
+2018-02-12 12:19:16,036 INFO o.a.j.JMeter: user.dir  =C:\Projects\DeezerTest-and-LogParser.git\trunk\Task 1. Load testing part\apache-jmeter-4.0\bin
+2018-02-12 12:19:16,037 INFO o.a.j.JMeter: PWD       =C:\Projects\DeezerTest-and-LogParser.git\trunk\Task 1. Load testing part\apache-jmeter-4.0\bin
+2018-02-12 12:19:16,039 INFO o.a.j.JMeter: IP: 10.0.13.102 Name: A-Venger FullName: A-Venger.tscrm.com
+2018-02-12 12:19:16,354 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2018-02-12 12:19:16,373 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2018-02-12 12:19:16,375 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2018-02-12 12:19:16,491 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties

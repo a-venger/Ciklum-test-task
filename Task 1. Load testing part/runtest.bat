@@ -1,1 +1,1 @@
-jmeter.bat -n -t "..\testplan\Deezer.jmx" -Jusers=50 -Jrampup=300 -Jduration=900 -l "..\results\testResult.csv" -j "..\results\jmeter.log" -e -o "..\results\Html\"
+apache-jmeter-4.0\bin\jmeter.bat -n -t "testplan\Deezer.jmx" -Jusers=50 -Jrampup=300 -Jduration=900 -l "results\testResult.csv" -j "results\jmeter.log" -e -o "results\Html\"
